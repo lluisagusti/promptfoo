@@ -16,7 +16,7 @@ With promptfoo, you can:
 - Use as a [CLI](https://www.promptfoo.dev/docs/usage/command-line), [library](https://www.promptfoo.dev/docs/usage/node-package), or in [CI/CD](https://www.promptfoo.dev/docs/integrations/github-action)
 - Use OpenAI, Anthropic, Azure, Google, HuggingFace, open-source models like Llama, or integrate custom API providers for [any LLM API](https://www.promptfoo.dev/docs/providers)
 
-The goal: **test-driven LLM development** instead of trial-and-error.
+The goal: **test-driven LLM development** instead of trial-and-error. 
 
 ```sh
 npx promptfoo@latest init
